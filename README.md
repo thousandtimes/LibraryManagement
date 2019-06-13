@@ -5,6 +5,4 @@ Everyone of us take a part of mission
 * Lil Yoroll(Wanping Qin) --> login and select option menu
 * Anthony (Zhangheng Li) --> Personal Information and the history of borrow
 
-### About the design pattern
-When meet the class about database operation, we always achieve it with singleton
 
